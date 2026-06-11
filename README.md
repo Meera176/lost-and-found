@@ -113,6 +113,6 @@ java -cp "RecoverAI.jar;lib/*" Main
 
 ---
 
-## Team
+## Developer
 
-RecoverAI Development Team
+Meera H S
